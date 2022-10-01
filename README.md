@@ -1,13 +1,46 @@
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Biaogo&show_icons=true&theme=nord&include_all_commits=true)][ghr]
+[![asciicast](https://asciinema.org/a/IIMkLxIta22DwGhBjikKZtoLl.svg)](https://asciinema.org/a/IIMkLxIta22DwGhBjikKZtoLl)
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=Biaogo&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)][ghr]
+<samp>
+  
+- 👨🏽‍💻 我是安全爱好者/渗透测试者
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Biaogo&row=1&theme=nord)][gpt]
+- 🤝🏽 寻找大佬一起成长
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=noraj&theme=nord)][gss]
+- 🎲 兴趣：CTF / 或其它平台、为渗透测试中的自动化编写 Bash 脚本、Android 和各种奇怪的语言
 
-[![Github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biaogo&layout=compact&langs_count=10&hide=javascript,html,css,php,tsql,hack&theme=nord)][ghr]
+- 👾 Discord : <a href="https://discordapp.com/users/737907309308674049">Biaogo#5673</a>
 
-[ghr]:https://github.com/anuraghazra/github-readme-stats
-[gpt]:https://github.com/ryo-ma/github-profile-trophy
-[gss]:https://git.io/streak-stats
+- ⚡ 吃 🍔 睡觉 😴 study 💻 UNO 🔁
+
+## 👨🏽‍💻 Skills & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/OS-Win11-informational?style=flat&logo=windows&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
+![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
+
+&nbsp;
+
+```
+                                          ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗████████╗███████╗
+                                          ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝
+                                          ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝███████╗█████╗     ██║   ███████╗
+                                          ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗╚════██║██╔══╝     ██║   ╚════██║
+                                          ██║██║ ╚████║   ██║   ███████╗██║  ██║███████║███████╗   ██║   ███████║
+                                          ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝
+```
+
+<p align="center">
+<img src="https://i.ibb.co/M6rj6Pm/a.png" width="60">
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
