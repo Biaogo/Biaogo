@@ -1,5 +1,4 @@
-[![asciicast](https://asciinema.org/a/IIMkLxIta22DwGhBjikKZtoLl.svg)](https://asciinema.org/a/IIMkLxIta22DwGhBjikKZtoLl)
-
+<img src="./resource/mygithubprofile.svg">
 <samp>
   
 - 👨🏽‍💻 我是安全爱好者/渗透测试者
