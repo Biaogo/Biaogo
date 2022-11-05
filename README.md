@@ -43,3 +43,4 @@
 <img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" width="60">
 <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Osu%21_Logo_2016.svg" width="60">
