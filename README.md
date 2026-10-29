@@ -1,47 +1,34 @@
-<img src="./resource/mygithubprofile.svg">
-<samp>
-  
-- 👨🏽‍💻 我是安全爱好者/渗透测试者
+<p align="center">
+  <img src="./resource/mygithubprofile.svg" width="880" alt="Biaogo — 安全爱好者 / 渗透测试。方向：CTF、内网渗透、Bash 自动化、Android、NixOS。">
+</p>
 
-- 🤝🏽 寻找大佬一起成长
+安全爱好者 / 渗透测试。在 CTF 和其它平台打比赛，给渗透测试写 Bash 自动化，折腾 Android 和奇怪的语言，日常跑 NixOS。
 
-- 🎲 兴趣：CTF / 或其它平台、为渗透测试中的自动化编写 Bash 脚本、Android 和各种奇怪的语言
+- **Discord** — [Biaogo#5673](https://discordapp.com/users/737907309308674049)
+- **兴趣** — CTF · 内网渗透 · 自动化脚本 · Android · 奇怪的语言
+- **想认识** — 一起打比赛、一起折腾、能带我飞的大佬
 
-- 👾 Discord : <a href="https://discordapp.com/users/737907309308674049">Biaogo#5673</a>
-
-- ⚡ 吃 🍔 睡觉 😴 study 💻 UNO 🔁
-
-## 👨🏽‍💻 Skills & Tools
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/OS-Win11-informational?style=flat&logo=windows&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Shell-Bash%20/%20ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=99e836)
-![](https://img.shields.io/badge/Virtualization-VMware-informational?style=flat&logo=vmware&logoColor=white&color=99e836)
-
-&nbsp;
-
-```
-                                          ██╗███╗   ██╗████████╗███████╗██████╗ ███████╗███████╗████████╗███████╗
-                                          ██║████╗  ██║╚══██╔══╝██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔════╝
-                                          ██║██╔██╗ ██║   ██║   █████╗  ██████╔╝███████╗█████╗     ██║   ███████╗
-                                          ██║██║╚██╗██║   ██║   ██╔══╝  ██╔══██╗╚════██║██╔══╝     ██║   ╚════██║
-                                          ██║██║ ╚████║   ██║   ███████╗██║  ██║███████║███████╗   ██║   ███████║
-                                          ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝   ╚══════╝
-```
+## Skills & Tools
 
 <p align="center">
-<img src="https://i.ibb.co/M6rj6Pm/a.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/wikipedia/wikipedia-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Osu%21_Logo_2016.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="60">
+  <img alt="OS — NixOS" src="https://img.shields.io/badge/OS-NixOS-informational?style=flat&logo=nixos&logoColor=white&color=99e836">
+  <img alt="编辑器 — Kate" src="https://img.shields.io/badge/Editor-Kate-informational?style=flat&logo=kde&logoColor=white&color=99e836">
+  <img alt="语言 — Python" src="https://img.shields.io/badge/Lang-Python-informational?style=flat&logo=python&logoColor=white&color=99e836">
+  <img alt="Shell — Fish" src="https://img.shields.io/badge/Shell-Fish-informational?style=flat&logo=fishshell&logoColor=white&color=99e836">
+  <img alt="虚拟化 — QEMU" src="https://img.shields.io/badge/Virtualization-QEMU-informational?style=flat&logo=qemu&logoColor=white&color=99e836">
+</p>
+
+## 折腾过的
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="44" alt="NixOS">
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="44" alt="Arch Linux">
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="44" alt="Linux">
+  <img src="./resource/icons/claude.svg" width="88" alt="Claude Code">
+  <img src="./resource/icons/codex.svg" width="44" alt="Codex">
+  <img src="./resource/icons/hermes.svg" width="44" alt="Hermes">
+  <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" width="44" alt="Minecraft">
+  <img src="./resource/icons/osu.svg" width="44" alt="osu!">
+</p>
+
+<p align="center"><sub>吃 🍔 · 睡觉 😴 · study 💻 · UNO 🔁</sub></p>
