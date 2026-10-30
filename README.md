@@ -24,7 +24,7 @@
   <img src="https://www.vectorlogo.zone/logos/nixos/nixos-icon.svg" width="44" alt="NixOS">
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" width="44" alt="Arch Linux">
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="44" alt="Linux">
-  <img src="./resource/icons/claude.svg" width="88" alt="Claude Code">
+  <img src="./resource/icons/claude.svg" width="68" alt="Clawd — Claude Code 的像素螃蟹">
   <img src="./resource/icons/codex.svg" width="44" alt="Codex">
   <img src="./resource/icons/hermes.svg" width="44" alt="Hermes">
   <img src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg" width="44" alt="Minecraft">
